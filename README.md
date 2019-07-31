@@ -5,6 +5,8 @@ easy-yapi插件仓库
 
 - [Download](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.jar) the plugin jar and select "Install Plugin From Disk" in IntelliJ's plugin preferences.
 
+- IDEA before 2018.1 please [Download](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.x.jar) here
+
 ## 历史版本
 
 - [v0.6.5.1](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.0.6.5.1.jar)
@@ -40,3 +42,7 @@ easy-yapi插件仓库
 - [v0.8.2.2](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.0.8.2.2.jar)
 
 - [v0.8.3.1](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.0.8.3.1.jar)
+
+- [v0.8.4.1](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.0.8.4.1.jar)
+
+- [v0.8.4.1x](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/easy-yapi.0.8.4.1x.jar)
