@@ -96,3 +96,7 @@ easy-yapi插件仓库
 - [v1.1.0.183.0.1](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/1/easy-yapi.1.1.0.183.0.1.jar)
 
 - [v1.1.1.173.183.1](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/1/easy-yapi.1.1.1.173.183.1.jar)
+
+- [v1.1.0.183.0.2](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/1/easy-yapi.1.1.0.183.0.2.jar)
+
+- [v1.1.1.173.183.2](https://github.com/tangcent/easy-yapi-plugins/raw/master/idea/1/easy-yapi.1.1.1.173.183.2.jar)
